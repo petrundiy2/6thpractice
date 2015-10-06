@@ -10,3 +10,4 @@ class LibTest(unittest.TestCase):
         self.assertEqual(lib.even(9),False)
         self.assertEqual(lib.even(-7),False)
 unittest.main(verbosity=2)
+git push
